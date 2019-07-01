@@ -1,0 +1,29 @@
+{
+  "name": "typescript-hello-world",
+  "version": "1.0.0",
+  "description": "TypeScript in 5 minutes",
+  "main": "greeter.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "gitignore": "curl https://www.gitignore.io/api/node,webstorm+iml > .gitignore",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlj95/typescript-hello-world.git"
+  },
+  "keywords": [
+    "typescript",
+    "hello",
+    "world"
+  ],
+  "author": "davidlj95",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidlj95/typescript-hello-world/issues"
+  },
+  "homepage": "https://github.com/davidlj95/typescript-hello-world#readme"
+}
